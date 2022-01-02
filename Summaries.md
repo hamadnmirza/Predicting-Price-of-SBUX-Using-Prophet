@@ -41,8 +41,10 @@ At the beginning of Dec 2021, coffee prices were at a 10 year high. While there 
 
 According to analysts, this is a multi-year issue. While the price of arabica coffee beans (known as premium coffee beans)is going up, there are cheaper alternatives. The robusta coffee bean is cheaper and is what instant coffee providers use. It is worth mentioning that arabica is sweeter and typically used in cappucinos and lattes, while Robusta is used in espressos and instant coffees (much less popular drink choices). However, the underlying supply problem is still relevant: while arabica's price has spiked ~80% this year, robusta's price also increased by ~50%.
 
+While I want to eventually predict the price of coffee, I wanted to start smaller. Because my eventual goal is to predict the price of arabica coffee using machine learning, I wanted to start with predicting the price of a major coffee retailer. I chose Starbucks because that was the most recent coffee shop I visited. 
 
-Ask: 
+
+Obejctive: 
 
 USE PROPHET TO PREDICT THE PRICE OF STARBUCKS CORP (Nasdaq Ticker: SBUX).  
 
