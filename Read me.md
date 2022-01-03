@@ -1,5 +1,3 @@
-# stockpredictorfbprophet
-
 Rough Background of Prophet Before Jumping Into the Task: 
 
 Introduction: 
